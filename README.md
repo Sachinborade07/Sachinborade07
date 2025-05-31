@@ -65,7 +65,8 @@
 ## 🐍 Contribution Snake because I love PYTHON very much
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sachinborade07/Sachinborade07/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sachinborade07/Sachinborade07/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sachinborade07/Sachinborade07/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Sachinborade07/Sachinborade07/blob/output/github-snake.svg" />
 </picture>
+
