@@ -15,43 +15,25 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-
-      - name: Generate Snake
+        
+      - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/snake.svg
-          gif_out_path: dist/snake.gif
-          # Custom snake colors
-          snake_color: "4b91f1" # Blue for snake
-          dot_color: "3c7dd9" # Darker blue for dots
-          # Snake growth parameters
-          growth_factor: 1.2 # 20% growth per food
-          frames_per_day: 5 # Smoother animation
-          frame_duration: 40 # Faster animation (ms)
+          outputs: |
+            dist/snake.svg?color_snake=3c7dd9&color_dots=4b91f1,64a1f4&color_head=ff6b00&head_radius=8&growth_factor=1.1
+            dist/snake-dark.svg?palette=github-dark&color_snake=64a1f4&color_dots=8dbdff,bfd6f6&color_head=ff8c00&head_radius=8&growth_factor=1.1&color_bg=0d1117
+          # Animation settings
+          frame_duration: 60
+          frames_per_day: 8
+          snake_speed: 1.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Dark Mode Snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/snake-dark.svg
-          # Dark theme colors
-          snake_color: "8dbdff" # Light blue snake
-          dot_color: "64a1f4" # Medium blue dots
-          background: "0d1117" # GitHub dark bg
-          # Consistent animation
-          growth_factor: 1.2
-          frames_per_day: 5
-          frame_duration: 40
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Deploy
+      - name: Deploy Animation
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake [skip ci]"
+          commit_message: "Update animated snake [skip ci]"
