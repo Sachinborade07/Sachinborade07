@@ -1,4 +1,5 @@
 # Hello World! 👋 I'm Sachin, a passionate ML Engineer
+
 🎓 Studying **Computer Engineering** at Sanjivani College of Engineering  
 💻 Working as ML Engineer since 2023  
 🚀 Building intelligent systems with modern tech stack
@@ -12,6 +13,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🌐 Web Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,11 +29,10 @@
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 Styling & Infrastructure
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🔧 Tools
@@ -38,11 +42,30 @@
 
 ---
 
-## 🐍 Contribution Snake
-Watch my coding journey come to life! The snake grows 10% for every 2 days of continuous commits 🍎➡️🐍
+## 🧠 Expertise
+
+### 📊 Machine Learning Models
+- 🔹 **ANN** - Artificial Neural Networks  
+- 🔹 **DNN** - Deep Neural Networks  
+- 🔹 **YOLO** - Real-time Object Detection  
+
+### 🧪 Specializations
+- 🧬 Deep Learning  
+- 👁️ Computer Vision  
+- 🧾 Natural Language Processing  
+
+### 📚 Core Subjects
+- 🧮 **Probability & Statistics** → `σ`, `μ`, `P(x)`  
+- 🧲 **Linear Algebra** → `Matrices`, `Eigenvalues`, `Vectors`  
+- ∫ **Calculus** → `∂`, `∇`, `dx/dy`, `Limits`  
+- 📉 **Optimization** → `Gradient Descent`, `Cost Functions`
+
+---
+
+## 🐍 Contribution Snake because I love PYTHON very much
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sachinborade07/Sachinborade07/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sachinborade07/Sachinborade07/blob/output/github-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sachinborade07/Sachinborade07/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Sachinborade07/Sachinborade07/blob/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/Sachinborade07/Sachinborade07/blob/output/github-snake.svg" />
 </picture>
