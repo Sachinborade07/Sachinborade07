@@ -42,17 +42,7 @@
 Watch my coding journey come to life! The snake grows 10% for every 2 days of continuous commits 🍎➡️🐍
 
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Sachinborade07/Sachinborade07/output/snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sachinborade07/Sachinborade07/output/snake.svg"
-  >
-  <img
-    alt="Animated snake eating my contributions"
-    src="https://raw.githubusercontent.com/Sachinborade07/Sachinborade07/output/snake.svg"
-    width="100%"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
