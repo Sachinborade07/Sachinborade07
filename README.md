@@ -55,8 +55,8 @@
 - 🧾 Natural Language Processing  
 
 ### 📚 Core Subjects
-- 🧮 **Probability & Statistics** → `σ`, `μ`, `P(x)`  
-- 🧲 **Linear Algebra** → `Matrices`, `Eigenvalues`, `Vectors`  
+- 🧮 **Probability & Statistics** → `Hypothesis Testing`, `P(x)`  
+- 🧲 **Linear Algebra** → `Matrices`, `Eigenvalues & EigenVecots`, `Vectors`  
 - ∫ **Calculus** → `∂`, `∇`, `dx/dy`, `Limits`  
 - 📉 **Optimization** → `Gradient Descent`, `Cost Functions`
 
