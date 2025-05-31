@@ -37,7 +37,7 @@ Watch my contributions get "eaten" by the snake! Each food item increases snake 
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Sachinborade07/Sachinborade07/output/snake-dark.svg"
+    srcset="https://github.com/Sachinborade07/Sachinborade07/blob/output/snake-dark.svg"
   >
   <source
     media="(prefers-color-scheme: light)"
@@ -45,6 +45,6 @@ Watch my contributions get "eaten" by the snake! Each food item increases snake 
   >
   <img
     alt="Animated snake eating contributions"
-    src="https://raw.githubusercontent.com/Sachinborade07/Sachinborade07/output/snake.svg"
+    src="https://github.com/Sachinborade07/Sachinborade07/blob/output/snake.svg"
   >
 </picture>
