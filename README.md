@@ -1,7 +1,7 @@
 # Hello World! 👋 I'm Sachin, a passionate ML Engineer
 
 🎓 Studying **Computer Engineering** at Sanjivani College of Engineering  
-💻 Working as ML Engineer since 2023  
+💻 Willing to Work as ML Engineer
 🚀 Building intelligent systems with modern tech stack
 
 ---
